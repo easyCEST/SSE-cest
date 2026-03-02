@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# MATLAB auto-save and temp files
+*.asv
+*.mex*
+*.slx.enc
+*.slxc
+*.mlx
+*.mat
+*.fig
